@@ -389,6 +389,10 @@ footer .copyright {
     padding: 25px 35px
 }
 
+.centrer {
+    text-align: center;
+}
+
 /* partie documentation */
 
 * {
@@ -402,8 +406,8 @@ footer .copyright {
   /* Float four columns side by side */
   .column {
     float: left;
-    width: 23%;
-    padding: 0 10px;
+    width: 25%;
+    padding: 0 15px;
   }
   
   /* Remove extra left and right margins, due to padding in columns */
